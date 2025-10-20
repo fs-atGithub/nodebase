@@ -4,7 +4,7 @@ import {Button} from "@/components/ui/button";
 const Page = () => {
     return (
         <div className={"flex min-h-screen min-w-screen justify-center items-center" }>
-            <Button variant={"outline"} size={"lg"} > Click meeeeee</Button>
+            <Button variant={"outline"} size={"lg"} > Click </Button>
         </div>
     )
 }
